@@ -3,7 +3,7 @@ This repository contains all the resources and solution to quizzes and assignmen
 Currently I'm also working on this certification. I keep on updating the resources and solution as I proceed further in this certification.
 Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
 
-There are 9 courses enlisted in this specialization: 
+There are 10 courses enlisted in this specialization: 
 
 1. What is Data Science?
 2. Open Source tools for Data Science
